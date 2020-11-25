@@ -2,6 +2,6 @@
 
 Grid layout example, which is RESPONSIVE for breakpoint 480px.
 
-## The online version
+
 
 
